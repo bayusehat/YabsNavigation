@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="xir1n07.remidiuts.telkomschid.yabsnavigation.MainActivity">
+
+    <Button
+        android:id="@+id/btnSwipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Swipe Pages" />
+
+    <Button
+        android:id="@+id/btnTab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tabs" />
+
+    <Button
+        android:id="@+id/btnSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Action Bar Spiner" />
+
+    <Button
+        android:id="@+id/btnNavdraw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Navigation Drawer" />
+</LinearLayout>
